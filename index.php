@@ -6,8 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-  <h1> Alunos: Ana Clara Báfica e Antonio Maciel Brito
+  <h1> Alunos: Ana Clara Báfica e Antonio Maciel Brito <br>
     turma: iti32 </h1> 
-     
+    <img src="img/download.jfif" />
+
 </body>
-</html>
+</html
